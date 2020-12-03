@@ -28,10 +28,10 @@ const Food: React.FC<IProps> = ({
   const [isAvailable, setIsAvailable] = useState(food.available);
 
   useEffect(()=>{
-    api.put(`/foods/${food.id}`,{
-      ...food,
-      available: isAvailable
-    })
+    // api.put(`/foods/${food.id}`,{
+    //   ...food,
+    //   available: isAvailable
+    // })
   },[isAvailable])
 
   async function toggleAvailable(): Promise<void> {
@@ -39,7 +39,7 @@ const Food: React.FC<IProps> = ({
   }
 
   function setEditingFood(): void {
-    handleEditFood(food)
+    handleEditFood({...food, available: isAvailable})
   }
 
   return (

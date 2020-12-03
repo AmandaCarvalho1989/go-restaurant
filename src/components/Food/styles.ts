@@ -26,11 +26,15 @@ export const Container = styled.div<IFoodPlateProps>`
     img {
       pointer-events: none;
       user-select: none;
+      width: 100%;
     }
   }
 
   section.body {
     padding: 30px;
+
+    min-height: 206px;
+
 
     h2 {
       color: #3d3d4d;
