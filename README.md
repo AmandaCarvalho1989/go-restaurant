@@ -5,12 +5,11 @@ Este projeto foi realizado com objetivo de estudo durante a jornada do GoStack.
 Essa será uma 
 É uma aplicação aplicação que irá se conectar a uma fake API, e exibir os pratos de comida criados e permitir a criação, remoção e atualização desses pratos.
 <br />
-O usuário também pode importar esses dados por meio de arquivos `.CSV`
 
 ### Preview
 
 <h1 align="center">
-  <img alt="GoRestaurant" title="#GoRestaurant" src="./src/assets/gofinances-video.gif" />
+  <img alt="GoRestaurant" title="#GoRestaurant" src="./src/assets/gorestaurant-video.gif" />
 </h1>
 
 ### Recursos 
