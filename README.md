@@ -2,7 +2,7 @@
 
 Este projeto foi realizado com objetivo de estudo durante a jornada do GoStack.
 <br />
-Essa será uma 
+
 É uma aplicação aplicação que irá se conectar a uma fake API, e exibir os pratos de comida criados e permitir a criação, remoção e atualização desses pratos.
 <br />
 
