@@ -35,6 +35,9 @@ This project was developed using the following technologies:
 ## 🚀 Getting Started 
 
 ```bash
+#Clone the projet
+$ git clone https://github.com/AmandaCarvalho1989/go-restaurant.git
+
 # install the dependecies 
 $ npm install or yarn  
  
