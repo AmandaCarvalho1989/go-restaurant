@@ -1,4 +1,13 @@
-# GoRestaurant
+
+
+
+## Preview
+
+<h1 align="center">
+  <img alt="GoRestaurant" title="#GoRestaurant" src="./src/assets/gorestaurant-video.gif" />
+</h1>
+
+## 💻 Project
 
 Este projeto foi realizado com objetivo de estudo durante a jornada do GoStack.
 <br />
@@ -6,18 +15,32 @@ Este projeto foi realizado com objetivo de estudo durante a jornada do GoStack.
 É uma aplicação aplicação que irá se conectar a uma fake API, e exibir os pratos de comida criados e permitir a criação, remoção e atualização desses pratos.
 <br />
 
-### Preview
+## 🧬 Techologies
 
-<h1 align="center">
-  <img alt="GoRestaurant" title="#GoRestaurant" src="./src/assets/gorestaurant-video.gif" />
-</h1>
+This project was developed using the following technologies:
+ 
+- [React](https://pt-br.reactjs.org/)
+- [Style-Components](https://styled-components.com/)
+- [TypesScript](https://www.typescriptlang.org/)
 
-### Recursos 
-- [x] ReactJS, Typescript e styled-components
-- [x] Integração com API fake
 
-### Como acessar?
-- Abra a pasta do projeto no VSCode
-- Abra o terminal e digite `npm install` ou `yarn` para instalaar as dependências do projeto
-- Após a instalação, ainda no terminal digite `npm start` ou `yarn run start`para iniciar o projeto
-- Acesse o endereço gerado no Browser 🚀
+## 🚀 Getting Started 
+
+```bash
+# install the dependecies 
+$ npm install or yarn  
+ 
+# Start projet
+$ npm start or yarn run start
+```
+
+## 🎨 Layout 
+
+You can view the project layout through the links below:
+
+- [Layout web](https://www.figma.com/file/1lK6AVCPybtWeBLCH8B08N/GoRestaurant)
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/AmandaCarvalho1989/go-restaurant/blob/main/LICENSE.md) file for details
+
