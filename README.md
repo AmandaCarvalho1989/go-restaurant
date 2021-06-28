@@ -10,9 +10,9 @@
  <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
 
-  <img src="https://img.shields.io/github/stars/amandacarvalho1989/jobs-calc?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
+  <img src="https://img.shields.io/github/stars/amandacarvalho1989/go-restaurant.git?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
   
-   <img src="https://img.shields.io/github/forks/amandacarvalho1989/jobs-calc?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks"> 
+   <img src="https://img.shields.io/github/forks/amandacarvalho1989/go-restaurant.git?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks"> 
 </p>
 
 ## 💻 Project
@@ -41,11 +41,11 @@ $ git clone https://github.com/AmandaCarvalho1989/go-restaurant.git
 ```
 
 Follow the steps below
-```
-# install the dependecies 
+```bash
+#Install the dependecies 
 $ npm install or yarn  
  
-# Start projet
+#Start projet
 $ npm start or yarn run start
 ```
 
